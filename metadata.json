@@ -1,0 +1,6 @@
+{
+  "name": "Audio Monitor",
+  "description": "2-Device Live Audio Monitoring System featuring high-performance audio streaming, background persistent recording (Sender), real-time playback (Receiver), local wav audio logging/auto-save, and automated 48-hour storage retention cleanup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

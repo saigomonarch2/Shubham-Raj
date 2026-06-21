@@ -1,0 +1,14 @@
+{
+  "name": "audio-monitor-websocket-server",
+  "version": "1.0.0",
+  "description": "Ultra-low latency WebSocket Server forwarder for 2-Device Live Audio Monitoring System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  },
+  "author": "Google AI Studio",
+  "license": "MIT"
+}
